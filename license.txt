@@ -1,0 +1,24 @@
+Copyright (c) 2025, Leonardo Santos Coelho
+Todos os direitos reservados.
+
+Redistribuição e uso em formato fonte e binário, com ou sem modificação,
+são permitidos desde que as seguintes condições sejam atendidas:
+
+1. As redistribuições do código-fonte devem manter o aviso de copyright acima,
+   esta lista de condições e o seguinte disclaimer.
+
+2. As redistribuições em formato binário devem reproduzir o aviso de copyright acima,
+   esta lista de condições e o seguinte disclaimer na documentação e/ou outros materiais
+   fornecidos com a distribuição.
+
+3. Nem o nome do titular dos direitos autorais nem os nomes dos contribuidores podem ser usados
+   para endossar ou promover produtos derivados deste software sem permissão específica prévia
+   por escrito.
+
+ESTE SOFTWARE É FORNECIDO PELOS TITULARES DOS DIREITOS AUTORAIS E CONTRIBUIDORES "COMO ESTÁ" E
+QUAISQUER GARANTIAS EXPRESSAS OU IMPLÍCITAS, INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS IMPLÍCITAS
+DE COMERCIALIZAÇÃO E ADEQUAÇÃO A UM DETERMINADO FIM SÃO REJEITADAS. EM NENHUMA CIRCUNSTÂNCIA O
+TITULAR DOS DIREITOS AUTORAIS OU CONTRIBUIDORES SERÃO RESPONSÁVEIS POR QUAISQUER DANOS DIRETOS,
+INDIRETOS, INCIDENTAIS, ESPECIAIS, EXEMPLARES OU CONSEQUENCIAIS (INCLUINDO, MAS NÃO SE LIMITANDO A,
+AQUISIÇÃO DE BENS OU SERVIÇOS SUBSTITUTOS; PERDA DE USO, DADOS OU LUCROS; OU INTERRUPÇÃO DE NEGÓCIOS)
+COMO DECORRÊNCIA DO USO DESTE SOFTWARE, MESMO QUE AVISADOS DA POSSIBILIDADE DE TAIS DANOS.

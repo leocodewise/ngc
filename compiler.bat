@@ -1,0 +1,1 @@
+g++ -Wall -O2 -std=c++23 src/main.cpp src/core/utils/FileReader.cpp -o ngc

@@ -1,11 +1,10 @@
 #ifndef NGC_UTILS_FILEREADER_H
 #define NGC_UTILS_FILEREADER_H
 
+#include <filesystem>
+#include <expected>
 #include <string>
 #include <vector>
-#include <expected>
-#include <filesystem>
-#include <system_error>
 
 namespace ngc::utils {
 

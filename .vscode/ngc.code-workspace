@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        }
+    ],
+    "settings": {
+        "terminal.integrated.defaultProfile.windows": "PowerShell",
+        "terminal.integrated.env.windows": {
+            "PYTHONIOENCODING": "utf8",
+            "PYTHONLEGACYWINDOWSSTDIO": "utf8"
+        },
+        "terminal.integrated.profiles.windows": {
+            "PowerShell": {
+                "source": "PowerShell",
+                "args": ["-NoExit", "-Command", "chcp 65001"]
+            }
+        },
+        "terminal.integrated.shellArgs.windows": [
+            "-NoExit",
+            "-Command",
+            "chcp 65001"
+        ]
+    }
+}
